@@ -3,4 +3,4 @@
     scm: git
     version: "1.0.1"
     name: java 
-    key_file: ./secret
+    key_file: secret
